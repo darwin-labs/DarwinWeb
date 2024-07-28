@@ -1,5 +1,6 @@
 import TokamakDOM
 import DarwinWebLibrary
+import SwiftUI
 
 @main
 struct TokamakApp: App {
